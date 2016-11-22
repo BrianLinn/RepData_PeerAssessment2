@@ -1,6 +1,18 @@
-# PA_2
+# Severe Weather Event Damage Analysis
 Brian Linn  
-November 21, 2016  
+November 22, 2016  
+##Abstract - Synopsis
+The following data analysis utilizes information from the National Weather Service  
+regarding the impact of severe weather events. From the information, the analysis  
+focuses on damage to the population and damage to the population's property.  
+The damage to the population, fatalities combined with injuries, is plotted to  
+give a visual display of which events cause the most harm. This allows the reader  
+to see that Tornadoes cause the most population harm by a signifcant percentage.  
+The property damage, which combines property and crop damage from the data, is  
+plotted in a similar fashion to give the reader insight into wich events cause  
+the most economic damage. Once again, there is a significant outlier in Flood  
+damage, which caused more damage than the next two categories, Hurricanes and  
+Tornadoes, combined.
 
 ## Data Processing - First Question
 ###Total Population Harm

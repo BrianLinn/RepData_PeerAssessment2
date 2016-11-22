@@ -1,5 +1,5 @@
 ---
-title: "Course Project 2 - Reproducible Research"
+title: "Severe Weather Event Damage Analysis"
 author: "Brian Linn"
 date: "November 22, 2016"
 output: 
